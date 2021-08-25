@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 
 <h1 align="center"> 
-<img src="https://github.com/Alok-Rithvik/Alok-Rithvik/blob/master/Name.svg" width="600px"></h1>
+<img src="https://github.com/Alok-Rithvik/Alok-Rithvik/blob/main/Name.svg" width="600px"></h1>
 <h1 align="center">
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="55px">
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/main/wave.gif" width="55px">
 </h1>
 
 <img align='left' src="https://media.giphy.com/media/Ig36GBEnn9LEUTzorR/giphy.gif" width="230">
