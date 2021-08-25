@@ -1,7 +1,7 @@
 <!--### Hi there 👋
 
 <!--
-**RK1905101/RK1905101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**alok-rithvik/alok-rithvik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -97,23 +97,22 @@ And well, what about you!!😃
 <a href="https://www.linkedin.com/in/alok-rithvik/"><img height="35" src="https://github.com/alok-rithvik/alok-rithvik/blob/master/linkedin.png"></a>
      <br>
      
-<a href="mailto:1905101@kiit.ac.in"><img height="25" src="https://github.com/alok-rithvik/alok-rithvik/blob/master/mail.png"></a>
+<a href="mailto:alok.rithvik@gmail.com"><img height="25" src="https://github.com/alok-rithvik/alok-rithvik/blob/master/mail.png"></a>
      <br>
      
-<a href="https://www.instagram.com/rk.02116/"><img height="35" src="https://github.com/alok-rithvik/alok-rithvik/blob/master/in.png"></a>
+<a href="https://www.instagram.com/alok_rithvik/"><img height="35" src="https://github.com/alok-rithvik/alok-rithvik/blob/master/in.png"></a>
      <br>
      
-<a href="https://www.facebook.com/profile.php?id=100039798362107"><img height="40" src="https://github.com/alok-rithvik/alok-rithvik/blob/master/fb.png"></a>
+<a href="https://www.facebook.com/alok.rithvik"><img height="40" src="https://github.com/alok-rithvik/alok-rithvik/blob/master/fb.png"></a>
      <br>
      
-<a href="https://twitter.com/RK02116"><img height="30" src="https://github.com/alok-rithvik/alok-rithvik/blob/master/twitter.png"></a>
+<a href="https://twitter.com/alok_rithvik"><img height="30" src="https://github.com/alok-rithvik/alok-rithvik/blob/master/twitter.png"></a>
      <br>
      
-<a href="https://t.me/blue_nova"><img height="40" src="https://github.com/alok-rithvik/alok-rithvik/blob/master/tg.png"></a>
+<a href="https://t.me/alok_rithvik"><img height="40" src="https://github.com/alok-rithvik/alok-rithvik/blob/master/tg.png"></a>
      <br>
 
 
 
 
      
-
