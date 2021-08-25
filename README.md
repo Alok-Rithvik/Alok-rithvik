@@ -19,13 +19,6 @@ Here are some ideas to get you started:
 <h1 align="center"> 
 <img src="https://github.com/Alok-Rithvik/Alok-rithvik/blob/main/Name.svg" width="600px"></h1>
 <h1 align="center">
-<img src="https://github.com/Alok-Rithvik/Alok-rithvik/blob/main/Waving%20Hello%20GIF.mp4" width="55px">
-<video width="400" controls>
-  <source src="https://github.com/Alok-Rithvik/Alok-rithvik/blob/main/Waving%20Hello%20GIF.mp4" type="video/mp4">
-</video>
-
-</h1>
-
 <img align='left' src="https://media.giphy.com/media/Ig36GBEnn9LEUTzorR/giphy.gif" width="230">
 
 ### ME<img src="https://media.giphy.com/media/ZcthNRpghDfqieTcsm/giphy.gif" width="45">
