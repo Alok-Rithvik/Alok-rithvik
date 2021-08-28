@@ -112,7 +112,10 @@ And well, what about you!!😃
 <a href="https://t.me/alok_rithvik"><img height="40" src="https://github.com/Alok-Rithvik/Alok-rithvik/blob/main/tg.png"></a>
      <br>
 
+https://media0.giphy.com/media/cn8IzVrxNLw40IsfBd/giphy.webp?cid=ecf05e476ck1kpxxlyayckeais5kse1nwxnx3p3f067slsx6&rid=giphy.webp&ct=s
 
-
-
+<br>
+<br>
+<br>
+<img align='left' src="https://media0.giphy.com/media/cn8IzVrxNLw40IsfBd/giphy.webp?cid=ecf05e476ck1kpxxlyayckeais5kse1nwxnx3p3f067slsx6&rid=giphy.webp&ct=s" width="210">
      
