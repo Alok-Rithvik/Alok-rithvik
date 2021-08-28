@@ -88,7 +88,7 @@ And well, what about you!!😃
 <br>
 <br>
 <br>
-<img align='left' src="https://tenor.com/view/emoji-dance-dance-funny-crazy-gif-17272316" width="210">
+<img align='center' src="https://tenor.com/view/emoji-dance-dance-funny-crazy-gif-17272316" width="210">
  
   ### Connect Me..(●'◡'●)
   
@@ -114,7 +114,5 @@ And well, what about you!!😃
 
 
 <br>
-<br>
-<br>
-<img align='left' src="https://media0.giphy.com/media/cn8IzVrxNLw40IsfBd/giphy.webp?cid=ecf05e476ck1kpxxlyayckeais5kse1nwxnx3p3f067slsx6&rid=giphy.webp&ct=s" width="210">
+<img align='center' src="https://media0.giphy.com/media/cn8IzVrxNLw40IsfBd/giphy.webp?cid=ecf05e476ck1kpxxlyayckeais5kse1nwxnx3p3f067slsx6&rid=giphy.webp&ct=s" width="300">
      
