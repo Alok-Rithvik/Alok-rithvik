@@ -86,8 +86,6 @@ And well, what about you!!😃
 
 
 <br>
-<br>
-<br>
 <img align='left' src="https://media1.giphy.com/media/LOEgEYZHyGbXY8KgA3/giphy.gif?cid=ecf05e47mdgywmamzp59er1dzel2k3c7wybm8th7ve5fpbo7&rid=giphy.gif&ct=s" width="400">
  
   ### Connect Me..(●'◡'●)
