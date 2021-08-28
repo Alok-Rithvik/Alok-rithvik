@@ -71,7 +71,7 @@ And well, what about you!!😃
   
   ![ViewCount](https://views.whatilearened.today/views/github/alok-rithvik/views.svg)   
   
-  <img alt="alok-rithvik's most used languages on GitHub" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RK1905101&langs_count=8&layout=compact&bg_color=000000&title_color=E8E500&text_color=F8F2CB&icon_color=9FD410&hide_border=true&hide=jupyter%20notebook,html" />
+  <img alt="alok-rithvik's most used languages on GitHub" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alok-rithvik&langs_count=8&layout=compact&bg_color=000000&title_color=E8E500&text_color=F8F2CB&icon_color=9FD410&hide_border=true&hide=jupyter%20notebook,html" />
   
   
  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alok-rithvik&theme=algolia)
