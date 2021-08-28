@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 <h1 align="center"> 
 <img src="https://github.com/Alok-Rithvik/Alok-rithvik/blob/main/Name.svg" width="600px"></h1>
 
-<!-- <img align = "center" src="https://github.com/Alok-Rithvik/Alok-rithvik/blob/main/
-380-3801522_viber-sticker-despicable-me-its-your-birthday-minions.png" width="100px"> -->
+<img align = "center" src="https://github.com/Alok-Rithvik/Alok-rithvik/blob/main/
+380-3801522_viber-sticker-despicable-me-its-your-birthday-minions.png" width="100px">
 
 <img align='left' src="https://media3.giphy.com/media/m9YZVin3cgIlPQzE2A/giphy.gif?cid=ecf05e47p8eoogjkf6h6vw4xz26ranu17ypliu3v3s5wnwrh&rid=giphy.gif&ct=s" width="230">
 
@@ -38,7 +38,7 @@ And well, what about you!!😃
 <br>
 <br>
 <br>
-<img align='right' src="https://media.giphy.com/media/l1JJ7hRzqWBQ7dKys7/giphy.gif" width="230">
+<img align='right' src="https://media1.giphy.com/media/TFTTO4OWzdwhFBzSUz/giphy.gif?cid=790b76112f52ba1588b4c9ad70aa68364c366db584a5ec07&rid=giphy.gif&ct=s" width="230">
 
 
 <!-- ### Hobbies <img src="https://media.giphy.com/media/5tfqzU3LJ1UKKfhLLU/giphy.gif" width="60"> 
