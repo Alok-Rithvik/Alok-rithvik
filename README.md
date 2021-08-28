@@ -95,19 +95,19 @@ And well, what about you!!😃
 
 
 <a href="https://www.linkedin.com/in/alok-rithvik/"><img height="35" src="https://github.com/Alok-Rithvik/Alok-rithvik/blob/main/linkedin.png"></a>
-     <br>
+     
      
 <a href="mailto:alok.rithvik@gmail.com"><img height="25" src="https://github.com/Alok-Rithvik/Alok-rithvik/blob/main/mail.png"></a>
      <br>
      
 <a href="https://www.instagram.com/alok_rithvik/"><img height="35" src="https://github.com/Alok-Rithvik/Alok-rithvik/blob/main/in.png"></a>
-     <br>
+     
      
 <a href="https://www.facebook.com/alok.rithvik"><img height="40" src="https://github.com/Alok-Rithvik/Alok-rithvik/blob/main/fb.png"></a>
      <br>
      
 <a href="https://twitter.com/alok_rithvik"><img height="30" src="https://github.com/Alok-Rithvik/Alok-rithvik/blob/main/twitter.png"></a>
-     <br>
+    
      
 <a href="https://t.me/alok_rithvik"><img height="40" src="https://github.com/Alok-Rithvik/Alok-rithvik/blob/main/tg.png"></a>
      <br>
