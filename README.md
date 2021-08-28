@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <!-- <img align = "center" src="https://github.com/Alok-Rithvik/Alok-rithvik/blob/main/
 380-3801522_viber-sticker-despicable-me-its-your-birthday-minions.png" width="100px"> -->
 
-<img align='left' src="https://media.giphy.com/media/crayon-shinchan-shin-chan-m9YZVin3cgIlPQzE2A" width="230">
+<img align='left' src="https://media3.giphy.com/media/m9YZVin3cgIlPQzE2A/giphy.gif?cid=ecf05e47p8eoogjkf6h6vw4xz26ranu17ypliu3v3s5wnwrh&rid=giphy.gif&ct=s width="230">
 
 ### ME<img src="https://media.giphy.com/media/ZcthNRpghDfqieTcsm/giphy.gif" width="45">
 
