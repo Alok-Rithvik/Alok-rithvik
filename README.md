@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <!-- <img align = "center" src="https://github.com/Alok-Rithvik/Alok-rithvik/blob/main/
 380-3801522_viber-sticker-despicable-me-its-your-birthday-minions.png" width="100px"> -->
-<iframe src="https://giphy.com/embed/m9YZVin3cgIlPQzE2A" width="480" height="477" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/crayon-shinchan-shin-chan-m9YZVin3cgIlPQzE2A">via GIPHY</a></p>
+
 <img align='left' src="https://giphy.com/stickers/crayon-shinchan-shin-chan-m9YZVin3cgIlPQzE2A" width="230">
 
 ### ME<img src="https://media.giphy.com/media/ZcthNRpghDfqieTcsm/giphy.gif" width="45">
