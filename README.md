@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 <h1 align="center"> 
 <img src="https://github.com/Alok-Rithvik/Alok-rithvik/blob/main/Name.svg" width="600px"></h1>
 
-<img align = "center" src="https://github.com/Alok-Rithvik/Alok-rithvik/blob/main/
-380-3801522_viber-sticker-despicable-me-its-your-birthday-minions.png" width="100px">
+<!-- <img align = "center" src="https://github.com/Alok-Rithvik/Alok-rithvik/blob/main/
+380-3801522_viber-sticker-despicable-me-its-your-birthday-minions.png" width="100px"> -->
 
 <img align='left' src="https://media3.giphy.com/media/m9YZVin3cgIlPQzE2A/giphy.gif?cid=ecf05e47p8eoogjkf6h6vw4xz26ranu17ypliu3v3s5wnwrh&rid=giphy.gif&ct=s" width="230">
 
@@ -88,7 +88,7 @@ And well, what about you!!😃
 <br>
 <br>
 <br>
-<img align='center' src="https://tenor.com/view/emoji-dance-dance-funny-crazy-gif-17272316" width="210">
+<img align='left' src="https://media1.giphy.com/media/LOEgEYZHyGbXY8KgA3/giphy.gif?cid=ecf05e47mdgywmamzp59er1dzel2k3c7wybm8th7ve5fpbo7&rid=giphy.gif&ct=s" width="210">
  
   ### Connect Me..(●'◡'●)
   
