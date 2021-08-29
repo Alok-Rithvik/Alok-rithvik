@@ -58,13 +58,14 @@ And well, what about you!!😃
 ### Have Hands on.. <img src="https://media.giphy.com/media/kkQsJyJBMZsk0/giphy.gif" width="60">
 --->>Devops tools(Docker, Kubernetes, Jenkins, Ansible,)<br>
 --->>AWS Cloud<br>
---->>Machine learning
+--->>Machine learning <br>
 --->>Python<br>
 --->>C++ <br>
 --->>HTML , CSS , JavaScript <br>
 --->>Git&GitHub<br>
 --->>Shell Scripting<br>
-<!-- --->><br> -->
+--->>Ethical Hacking<br>
+--->>RHEL8<br>
 
 
   <br>
