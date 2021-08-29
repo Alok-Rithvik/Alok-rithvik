@@ -56,11 +56,16 @@ And well, what about you!!😃
 <img align='left' src="https://media.giphy.com/media/JA6bbQKsEtWVB6ThBU/giphy.gif" width="290">  -->
 
 ### Have Hands on.. <img src="https://media.giphy.com/media/kkQsJyJBMZsk0/giphy.gif" width="60">
-<!-- --->>Devops tools(Docker, Kubernetes, Jenkins, Ansible, Prometheus, Grafana etc)<br> -->
-<!-- --->>Machine learning<br> -->
---->><br>
+--->>Devops tools(Docker, Kubernetes, Jenkins, Ansible,)<br>
 --->>AWS Cloud<br>
---->>Ansible<br>
+--->>Machine learning
+--->>Python<br>
+--->>C++ <br>
+--->>HTML , CSS , JavaScript <br>
+--->>Git&GitHub<br>
+--->>Shell Scripting<br>
+<!-- --->><br> -->
+
 
   <br>
 <br>
