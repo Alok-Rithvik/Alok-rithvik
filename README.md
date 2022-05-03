@@ -62,6 +62,7 @@ And well, what about you!!😃
 --->>Python<br>
 --->>C++ <br>
 --->>HTML , CSS , JavaScript <br>
+--->>React.js<br>
 --->>Git&GitHub<br>
 --->>Shell Scripting<br>
 --->>Ethical Hacking<br>
